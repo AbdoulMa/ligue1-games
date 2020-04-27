@@ -1,0 +1,4 @@
+# See the installation instructions at https://github.com/AbdoulMa/ligue1-games
+
+#### Packages
+pandas==0.25.3
