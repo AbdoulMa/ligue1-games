@@ -14,7 +14,7 @@ Next, clone this repository by opening a terminal and typing the following comma
     $ git clone https://github.com/AbdoulMa/ligue1-games.git
     $ cd Ligue1
 
-If you do not want to install git, you can instead download [master.zip](https://github.com/bdoulMa/ligue1-games/archive/master.zip), unzip it, rename the resulting directory to `Ligue1` and move it to your development directory.
+If you do not want to install git, you can instead download [master.zip](https://github.com/AbdoulMa/ligue1-games/archive/master.zip), unzip it, rename the resulting directory to `Ligue1` and move it to your development directory.
 
 
 If you are familiar with Python and you know how to install Python libraries, go ahead and install the libraries listed in `requirements.txt` and jump to the [Starting Jupyter](#starting-jupyter) section. If you need detailed instructions, please read on.
@@ -80,7 +80,7 @@ This should open up your browser, and you should see Jupyter's tree view, with t
 
 ## License
 
-MIT, see [LICENSE](/LICENSE.md).
+MIT, see [LICENSE](/LICENSE).
 
 ## Contributors
-Feel Free to contact me : [Abdoul Madjid](https://twitter.com/issa_madjid)
+Feel free to contact me : [Abdoul Madjid](https://twitter.com/issa_madjid)
